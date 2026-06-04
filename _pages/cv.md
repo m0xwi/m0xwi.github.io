@@ -11,54 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MEng in Electronic and Electrical Engineering, University of Leeds, 2027 (expected)
+* BEng in Electronic and Electrical Engineering, University of Leeds, 2026
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2026: THz Intern
+  * University of Leeds
+  * Duties included: Active Laser Beam Stabilisation System
+  * Supervisor: Dr. Joshua Freeman, Dr. Thomas Gill
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
+* Summer 2025: Research Assistant
+  * University of Leeds
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Radio Frequency Design
+  * Antenna Design and Simulation (CST Studio Suite)
+  * Driving RF test equipment (FieldFox N9923A)
+* Electronics hardware design
+* Digital Signal Processing
+  * Python Programming
+  * Rust Programming
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* In the works

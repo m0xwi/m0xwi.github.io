@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Microstrip Patch Antenna Array"
 excerpt: "Microstrip Patch Antenna Array<br/><img src='/images/Manufactured Microstrip Patch Antenna Array.jpg'>"
 collection: portfolio
 ---

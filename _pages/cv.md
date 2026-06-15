@@ -20,22 +20,12 @@ Work experience
   * University of Leeds
   * Duties included: Active Laser Beam Stabilisation System
   * Supervisor: Dr. Joshua Freeman, Dr. Thomas Gill
-
-* Summer 2025: Research Assistant
-  * University of Leeds
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
 * Radio Frequency Design
   * Antenna Design and Simulation (CST Studio Suite)
   * Driving RF test equipment (FieldFox N9923A)
-* Electronics hardware design
-* Digital Signal Processing
-  * Python Programming
-  * Rust Programming
   
 Service and leadership
 ======
-* In the works

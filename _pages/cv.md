@@ -20,7 +20,11 @@ Work experience
   * University of Leeds
   * Duties included: Active Laser Beam Stabilisation System
   * Supervisor: Dr. Joshua Freeman, Dr. Thomas Gill
-  
+* Jun 2024 - Present: Student Ambassador
+  * University of Leeds
+  * Duties included: Led guided tours of engineering facilities during open day, Actively engaged with prospective
+  * students, listening to their needs, tailoring my approach their interests
+
 Skills
 ======
 * Radio Frequency Design
@@ -29,3 +33,5 @@ Skills
   
 Service and leadership
 ======
+* Aspiring Amateur chef
+  * Learning the Art of Salt, Acid, Fat, Heat

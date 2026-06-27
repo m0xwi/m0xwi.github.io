@@ -22,8 +22,7 @@ Work experience
   * Supervisor: Dr. Joshua Freeman, Dr. Thomas Gill
 * Jun 2024 - Present: Student Ambassador
   * University of Leeds
-  * Duties included: Led guided tours of engineering facilities during open day, Actively engaged with prospective
-  * students, listening to their needs, tailoring my approach their interests
+  * Duties included: Led guided tours of engineering facilities, Actively engaged with prospective students listening to their needs, tailoring my approach their interests
 
 Skills
 ======

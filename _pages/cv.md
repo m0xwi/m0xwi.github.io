@@ -30,7 +30,7 @@ Skills
 * Radio Frequency Design
   * Antenna Design and Simulation (CST Studio Suite)
   * Driving RF test equipment (FieldFox N9923A)
-  
+
 Service and leadership
 ======
 * Aspiring Amateur chef

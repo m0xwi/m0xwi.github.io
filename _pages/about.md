@@ -15,7 +15,7 @@ Currently building an active laser beam stabilisation system in the THz lab.
 
 - **Active Beam Stabilisation for Ultrafast THz**  
   Closed-loop control system for ultrafast terahertz laser pulses (vision tracking + actuator control).  
-  [code](link-to-repo-if-you-have-one) · Internship at University of Leeds / Henry Royce.
+  [code](https://github.com/Leeds-THz/ABSS) · Internship at University of Leeds / Henry Royce Institute.
 
 - **2.2 GHz 4×4 Microstrip Patch Antenna Array**  
   Designed, fabricated and measured an S-band phased array (S11, beamwidth, gain, radiation efficiency).  

@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "William Weller"
-author_profile: false
+author_profile: true
 ---
 
 Electronic and Electrical Engineer · University of Leeds

@@ -22,7 +22,7 @@ Currently building an active laser beam stabilisation system in the THz lab.
 
 - **2.2 GHz 4×4 Microstrip Patch Antenna Array**  
   Designed, fabricated and measured an S-band phased array (S11, beamwidth, gain, radiation efficiency).  
-  [paper](https://m0xwi.github.io/files/AntennaProjectPaper.pdf)
+  [paper](https://m0xwi.github.io/files/AntennaProjectPaper.pdf) /
   [slides](https://m0xwi.github.io/files/AntennaProjectSlides.pptx)
 
 ---

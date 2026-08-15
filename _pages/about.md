@@ -4,8 +4,6 @@ title: "William Weller"
 author_profile: false
 ---
 
-# William Weller
-
 Electronic and Electrical Engineer · University of Leeds
 
 I work on RF systems, antennas, and terahertz active optics.  

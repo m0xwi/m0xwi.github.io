@@ -3,11 +3,12 @@ permalink: /
 title: "William Weller"
 author_profile: true
 ---
-
+# William Weller
 Electronic and Electrical Engineer · University of Leeds
 
 I work on RF systems, antennas, and terahertz active optics.  
 Currently building an active laser beam stabilisation system in the THz lab.
+Currently building software solutions for climate change and AI.
 
 ---
 
@@ -35,7 +36,7 @@ RF / antennas · Terahertz systems · Power electronics · Space communications 
 
 ## Education & Experience
 
-- MEng Electronic and Electrical Engineering, University of Leeds (expected 2026)
+- MEng Electronic and Electrical Engineering, University of Leeds (expected 2027)
 - Internship: Active Optics Control for Ultrafast Terahertz Measurements (2026)
 
 ---

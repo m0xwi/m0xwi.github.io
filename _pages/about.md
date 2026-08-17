@@ -1,8 +1,4 @@
 ---
-permalink: /
-title: "William Weller"
-author_profile: true
----
 # William Weller
 Electronic and Electrical Engineer · University of Leeds
 
